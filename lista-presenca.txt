@@ -1,14 +1,10 @@
 Data: 24.03.2026
 jobenilson jose
-<<<<<<< HEAD
 Maik Elamide
 Francisco monteiro da silva
-=======
 Nelson Arruda
 Debora 
 Francicleia Arruda
 Maik Elamide
 Francisco monteiro da silva
 Luã Silva
-
->>>>>>> 470346a689b167a399897e3d5b11ee99e97151da
