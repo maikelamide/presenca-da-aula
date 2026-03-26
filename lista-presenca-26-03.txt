@@ -1,8 +1,7 @@
 Data: 26.03.2026
 
 Alunos (apenas o primeiro nome)
-
-01.Ludimila
+01.Adriano
 02.Francicleia
 03.Tharic
 04.Debora
