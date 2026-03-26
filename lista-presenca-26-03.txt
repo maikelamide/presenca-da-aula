@@ -1,9 +1,17 @@
 Data: 26.03.2026
 
 Alunos (apenas o primeiro nome)
-01.
-02.
-03.
-04.
-05.
-06. Luã
+
+01.Ludimila
+02.Francicleia
+03.Tharic
+04.Debora
+05. Rogério Levy
+06.Francisco
+07. Nelson
+08. Isabele
+09.siglia
+10. Rafaela
+11. Ludimila
+12. Luã Silva
+master
