@@ -1,6 +1,12 @@
 Data: 26.03.2026
 
 Alunos (apenas o primeiro nome)
-01.siglia ferreira
-02.
-03.
+01.Francicleia
+02.Tharic
+03.Debora
+04. Rogério Levy
+05.Francisco
+06. Nelson
+07. Isabele
+08.siglia
+14. Rafaela
