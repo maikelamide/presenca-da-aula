@@ -1,11 +1,18 @@
 Data: 26.03.2026
 
 Alunos (apenas o primeiro nome)
-01. Jovana
-02.
-03.
-01.Francicleia
-02.Tharic
-03.Debora
-04. Rogério Levy
-05.Francisco
+
+01.Ludimila
+02.Francicleia
+03.Tharic
+04.Debora
+05. Rogério Levy
+06.Francisco
+07. Nelson
+08. Isabele
+09.siglia
+10. Rafaela
+11. Ludimila
+12. Luã Silva
+13. jovana
+master
