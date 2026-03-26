@@ -1,24 +1,22 @@
 Data: 24.03.2026
-Emerson Pitta
-Rafaela
-deivison
-Carlos Marques
-jobenilson jose
-Francisco monteiro da silva
-Adriano Martins
-valdiner
-Cledson Batista
-Maria Elionara Arruda
-siglia ferreira
-Nelson Arruda
-Debora 
-Francicleia Arruda
-Francisco monteiro da silva
-Luã Silva
-ilson
-Luã Silva
-Ilson 
-Isabele 
-Luã Silva
-Luã Silva
-Ludimila Rolim Martins
+
+Alunos
+01. Emerson Pitta
+02. Rafaela
+03. Deivison
+04. Carlos Marques
+05. Jobenilson jose
+06. Francisco monteiro da silva
+07. Adriano Martins
+08. Valdiner
+09. Cledson Batista
+10. Maria Elionara Arruda
+11. siglia ferreira
+12. Nelson Arruda
+13. Debora 
+14. Francicleia Arruda
+15. Francisco monteiro da silva
+16. Luã Silva
+17. Ilson
+18. Isabele 
+19. Ludimila Rolim Martins
