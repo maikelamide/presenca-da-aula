@@ -1,10 +1,7 @@
-Data: 24.03.2026git st
-Debora 
+Data: 24.03.2026
 Tharic Gustavo
-Francicleia Arruda
-Maik Elamide
-Francisco monteiro da silva
-Luã Silva
+Emerson Pitta
+Rafaela
 deivison
 Carlos Marques
 jobenilson jose
@@ -20,14 +17,8 @@ Debora
 Francicleia Arruda
 Maik Elamide
 Francisco monteiro da silva
-ilson
 Luã Silva
 Ilson 
 Isabele 
-Luã Silva
-master
-Ilson 
-Isabele 
-Luã Silva
-Luã Silva
+master 
 Ludimila Rolim Martins
