@@ -1,6 +1,11 @@
 Data: 26.03.2026
 
 Alunos (apenas o primeiro nome)
+
+01. Andre Sombra
+02.
+03.
+
 01.Adriano
 02.Francicleia
 03.Tharic
@@ -14,4 +19,6 @@ Alunos (apenas o primeiro nome)
 11. Ludimila
 12. Luã Silva
 13. Jovana
+Andre Sobra
+
 
