@@ -1,6 +1,7 @@
 Data: 26.03.2026
 
 Alunos (apenas o primeiro nome)
+
 01.Francicleia
 02.Tharic
 03.Debora
@@ -8,9 +9,7 @@ Alunos (apenas o primeiro nome)
 05.Francisco
 06. Nelson
 01.Anna 
-02.
 03. Jackson_Martins
-04. 
 01.Adriano
 02.Francicleia
 03.Tharic
@@ -30,4 +29,4 @@ Alunos (apenas o primeiro nome)
 17.Maria
 18.valdiner
 19. deivison
-
+20.Carlos
