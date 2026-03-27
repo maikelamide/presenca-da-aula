@@ -1,21 +1,11 @@
 Data: 26.03.2026
 
 Alunos (apenas o primeiro nome)
-01.Francicleia
-02.Tharic
-03.Debora
-04.Rogério Levy
-05.Francisco
-06. Nelson
-01.Anna 
-02.
-03. Jackson_Martins
-04. 
 01.Adriano
 02.Francicleia
 03.Tharic
 04.Debora
-05. Rogério Levy
+05.Rogério
 06.Francisco
 07. Nelson
 08. Isabele
