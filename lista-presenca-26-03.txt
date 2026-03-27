@@ -1,22 +1,28 @@
 Data: 26.03.2026
 
 Alunos (apenas o primeiro nome)
-
-01.Adriano
-02.Francicleia
-03.Tharic
-04.Debora
-05. Rogério Levy
-06.Francisco
-07. Nelson
-08. Isabele
-09.siglia
-10. Rafaela
-11. Ludimila
-12. Luã Silva
-13. Jovana
-14. Andre Sobra
-15. ilson
-
-
-
+01.Francicleia
+02.Tharic
+03.Debora
+04. Rogério Levy
+05.Francisco
+06. Nelson
+07. Isabele
+08.siglia
+09. Rafaela
+10.Job
+11.Adriano
+12.Francicleia
+13.Tharic
+14.Debora
+15 Rogério Levy
+16Francisco
+17 Nelson
+18 Isabele
+19.lia
+20.afaela
+21 Ludimila
+22.Luã Silva
+23.Jovana
+24 Andre Sobra
+2. ilson
