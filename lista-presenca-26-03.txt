@@ -27,5 +27,7 @@ Alunos (apenas o primeiro nome)
 14. Andre Sobra
 15. ilson
 16.Bruno
-17.valdiner
-18. deivison
+17.Maria
+18.valdiner
+19. deivison
+
