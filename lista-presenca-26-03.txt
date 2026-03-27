@@ -1,12 +1,29 @@
 Data: 26.03.2026
 
 Alunos (apenas o primeiro nome)
+<<<<<<< HEAD
+=======
+
+01.Francicleia
+02.Tharic
+03.Debora
+04. Rogério Levy
+05.Francisco
+06. Nelson
+01.Anna 
+03. Jackson_Martins
+>>>>>>> 5ec233c0f0609c9e967e43274930619511bf4618
 01.Adriano
 02.Francicleia
 03.Tharic
 04.Debora
+<<<<<<< HEAD
 05.Rogério
 06.Francisco
+=======
+05. Rogério Levy
+06. francisco
+>>>>>>> 5ec233c0f0609c9e967e43274930619511bf4618
 07. Nelson
 08. Isabele
 09.siglia
@@ -20,4 +37,4 @@ Alunos (apenas o primeiro nome)
 17.Maria
 18.valdiner
 19. deivison
-
+20.Carlos
